@@ -35,7 +35,7 @@ function App() {
       </div>
 
       <h2 className="heading2">
-        ЭТО КАУНТЕР
+        ЭТО Ади
       </h2>
     </div>
   )
